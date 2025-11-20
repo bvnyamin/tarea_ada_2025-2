@@ -30,4 +30,4 @@ El objetivo es resolver el problema de la “Torta de Cumpleaños” utilizando 
 Profesora: **Laura Setti Duque**  
 Universidad Tecnológica Metropolitana – 2025
 
-Este trabajo es únicamente académico y no posee una licencia de distribución abierta.
+
